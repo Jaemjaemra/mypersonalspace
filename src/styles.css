@@ -1,0 +1,8 @@
+html {
+  scroll-behavior: smooth; /* <--- Kunci utama untuk buat animation jadi smooth */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
